@@ -1,6 +1,6 @@
 module heckel.io/ntfy/v2
 
-go 1.25.8
+go 1.26.0
 
 require (
 	cloud.google.com/go/firestore v1.25.0 // indirect
@@ -14,10 +14,10 @@ require (
 	github.com/olebedev/when v1.1.0
 	github.com/stretchr/testify v1.12.1
 	github.com/urfave/cli/v2 v2.27.7
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.58.0
 	golang.org/x/oauth2 v0.36.0 // indirect
-	golang.org/x/sync v0.22.0
-	golang.org/x/term v0.45.0
+	golang.org/x/sync v0.24.0
+	golang.org/x/term v0.47.0
 	golang.org/x/time v0.15.0
 	google.golang.org/api v0.294.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -34,8 +34,8 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.27
 	github.com/prometheus/client_golang v1.24.1
 	github.com/stripe/stripe-go/v74 v74.30.0
-	golang.org/x/sys v0.47.0
-	golang.org/x/text v0.41.0
+	golang.org/x/sys v0.49.0
+	golang.org/x/text v0.43.0
 )
 
 require (
@@ -94,7 +94,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.46.0 // indirect
 	go.opentelemetry.io/otel/trace v1.46.0 // indirect
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
-	golang.org/x/net v0.58.0 // indirect
+	golang.org/x/net v0.60.0 // indirect
 	google.golang.org/appengine/v2 v2.0.6 // indirect
 	google.golang.org/genproto v0.0.0-20260825221802-da73d73af1c5 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260825221802-da73d73af1c5 // indirect
